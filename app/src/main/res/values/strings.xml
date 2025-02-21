@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Popupcall</string>
+    <string-array name="call_status_options">
+        <item>New</item>
+        <item>Lead</item>
+        <item>Existing</item>
+    </string-array>
 </resources>
